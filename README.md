@@ -70,7 +70,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
     - Growth Mindset youtube: https://www.youtube.com/watch?v=hiiEeMN7vbQ
 14. Sleeping and allowing your body to rest are important tools in debugging.
 
-![Maya Angelos](maya.png)
+![Maya Angelos](maya.jpg)
 
 
 
