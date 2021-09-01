@@ -5,19 +5,34 @@ Steps to think when debugging
 
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
+
 2. **Read your error messages**, and say out loud what the error is telling you.
+
 3. Console log to view what is going on with your code.
+
 4. Think of the **simplest** ways of handling challenges.
+
 5. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors.
+
 6. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
+
 7. **Breathe!**
+
 8. Rubber Duckie. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
 9. Point and say: The *shisa kanko* (指差喚呼) method is where you point and say what you are about to accomplish. Reading your code aloud (in detail, line by line) helps show yourself where you might have gone off the rails. https://en.wikipedia.org/wiki/Pointing_and_calling
+
 10. Take notes. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
+
 11. What you think vs. What it is. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether.  For example:
+
     - **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
     - **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
-12. Ask yourself some of these questions:
+
+    
+
+    ### Ask yourself some of these questions:
+
     - What do I need to do?
     - What data do I need to pull?
     - What and where am I storing my data?
@@ -27,11 +42,15 @@ Steps to think when debugging
     - What am I doing?
     - What am I supposed to do?
 
+
+
+
+
+## Mindset tools:
+
 When dealing with debugging, there are some mindset tools to help visualize your problems.
 
 
-
-#### Mindset tools:
 
 1. Remember, your errors are not permanent failures or make you a terrible programmer but are learning processes. 
 2. In a couple of months, no one knows everything about coding; don't expect yourself to know everything. 
