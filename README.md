@@ -12,15 +12,14 @@ Debugging Tips:
 
 
 
-#### Easiest:
+#### Easy:
 
 - Pokemon API - https://pokeapi.co/
 - Meal DB  - https://www.themealdb.com/
 - Cocktail DB - https://www.thecocktaildb.com/
 - Countries - https://restcountries.eu/
-- OMDB - https://www.omdbapi.com/
-
-
+- OMDB - https://www.omdbapi.com/   (requires token)
+- iex cloud - https://iexcloud.io/console/   (requires token)
 
 #### Medium:
 
