@@ -31,14 +31,14 @@ Steps to think when debugging
 
 13. Ask yourself some of these questions:
 
-14. 1. What do I need to do?
-    2. What data do I need to pull?
-    3. What and where am I storing my data?
-    4. How much do I need to pull?
-    5. Am I actually pulling the right thing?
-    6. What am I looking at?
-    7. What am I doing?
-    8. What am I supposed to do?
+    - What do I need to do?
+    - What data do I need to pull?
+    - What and where am I storing my data?
+    - How much do I need to pull?
+    - Am I actually pulling the right thing?
+    - What am I looking at?
+    - What am I doing?
+    - What am I supposed to do?
 
 When dealing with debugging, there are some mindset tools to help visualize your problems.
 
@@ -59,17 +59,18 @@ Mindset tools:
 11. You are not a machine, and no one expects you to be one.
 12. Always study, keep learning and keep going. Never settle. There's a reason why things constantly update!
 13. I don't know vs. I haven't grasped it yet. It's a part of the growth mindset. Your mind is in constant change, especially when learning. Just like plants, we need certain things for growth, and when it comes to learning, what you say can determine how you grow.
-14. 1. 1. Growth Mindset Cliffnotes version: https://www.youtube.com/watch?v=M1CHPnZfFmU
-       2. Understanding mindset: https://www.understood.org/articles/en/growth-mindset
-       3. Growth Mindset youtube: https://www.youtube.com/watch?v=hiiEeMN7vbQ
+    - Growth Mindset Cliffnotes version: https://www.youtube.com/watch?v=M1CHPnZfFmU
+    - Understanding mindset: https://www.understood.org/articles/en/growth-mindset
+    - Growth Mindset youtube: https://www.youtube.com/watch?v=hiiEeMN7vbQ
+14. 1. 
 
 15. Sleeping and allowing your body to rest are important tools in debugging.
 
 ![Maya Angelos](maya.png)
 
+
+
 ## API List
-
-
 
 #### Easy:
 
