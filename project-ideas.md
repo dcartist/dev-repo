@@ -8,7 +8,7 @@ Starting apps can be very frustrating when starting because there's the big ques
 
 ## FrontEnd
 
-* Weather Api - Weather API  \(inspiration: [https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration](https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration/) \) 
+* Weather API - Weather API  \(inspiration: [https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration](https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration/) \) 
 * Game to show logic
 * Drink app using Drink API \([thedrinkblog.com](https://thedrinkblog.com/)\) 
 * Meal App  \(inspirational food sites: [https://www.sitebuilderreport.com/inspiration/food-websites](https://www.sitebuilderreport.com/inspiration/food-websites) \) 
@@ -26,6 +26,17 @@ Swagger or use Express to create a front end to show what the API does.
 
 * RESTful Full CRUD API
 * RESTful Full CRUD API WITH SECURITY
+
+Inspiration:
+
+* Banking \(Having login, account information, being able to do transactions\)
+* Government Data. Taking a dataset from a government department and building out an API based upon the data. Data USA: [https://datausa.io/about/api](https://datausa.io/about/api/) Code.gov: [https://code.gov/agencies](https://code.gov/agencies)
+
+
+
+
+
+
 
 Datasets:
 

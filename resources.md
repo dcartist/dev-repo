@@ -2,6 +2,9 @@
 
 ## API List
 
+Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
+API List: [https://apilist.fun](https://apilist.fun/)
+
 ### Easy:
 
 * Pokemon API - [https://pokeapi.co/](https://pokeapi.co/)
