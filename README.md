@@ -2,9 +2,7 @@
 
 ## Developer Depot
 
-[project-ideas.md]: project-ideas.md	"Project ideas"
-
-
+[a relative link]: project-ideas.md	"Project ideas"
 
 ### Steps to think when debugging
 
