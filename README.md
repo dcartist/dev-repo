@@ -8,7 +8,7 @@
 
 [Project ideas](project-ideas.md)
 
-Resources
+### Resources
 
 [Resources](resources.md)
 
