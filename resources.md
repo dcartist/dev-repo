@@ -1,5 +1,9 @@
 # Resources
 
+## README EDITOR:
+
+Typora \(Win/Mac/Linux\): [https://typora.io](https://typora.io/)
+
 ## API List
 
 Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
