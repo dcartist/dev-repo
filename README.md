@@ -22,18 +22,18 @@
     * **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
     * **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
 
-```text
+
 ### Ask yourself some of these questions:
 
 - What do I need to do?
 - What data do I need to pull?
 - What and where am I storing my data?
 - How much do I need to pull?
-- Am I actually pulling the right thing?
+- Am I actually pulling the right t dhing?
 - What am I looking at?
 - What am I doing?
 - What am I supposed to do?
-```
+
 
 ## Mindset tools:
 
