@@ -9,7 +9,17 @@ Starting apps can be very frustrating when starting because there's the big ques
 ## FrontEnd
 
 * Weather API - Weather API  \(inspiration: [https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration](https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration/) \) 
-* Game to show logic
+* Game to show logic  
+  * **Flash Cards**
+  * **War**
+  * **Frogger**
+  * **Connect 4**
+  * **Memory**
+  * **Pacman**
+  * **Trivia \(Self-scoring\)**
+  * **Hangman**
+  * **Tower of Hanoi**
+  * **Simon** 
 * Drink app using Drink API \([thedrinkblog.com](https://thedrinkblog.com/)\) 
 * Meal App  \(inspirational food sites: [https://www.sitebuilderreport.com/inspiration/food-websites](https://www.sitebuilderreport.com/inspiration/food-websites) \) 
 * Wiki Type page
