@@ -78,5 +78,3 @@ When dealing with debugging, there are some mindset tools to help visualize your
 
 ![Maya Angelos](.gitbook/assets/maya.jpg)
 
-
-
