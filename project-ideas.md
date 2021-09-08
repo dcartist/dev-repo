@@ -30,11 +30,8 @@ Swagger or use Express to create a front end to show what the API does.
 Inspiration:
 
 * Banking \(Having login, account information, being able to do transactions\)
+* User Authentication System
 * Government Data. Taking a dataset from a government department and building out an API based upon the data. Data USA: [https://datausa.io/about/api](https://datausa.io/about/api/) Code.gov: [https://code.gov/agencies](https://code.gov/agencies)
-
-
-
-
 
 
 
@@ -42,14 +39,10 @@ Datasets:
 
 
 
-## Fullstack
+## Full-stack
 
+Many of the previously mentioned apps can be used as a full-stack
 
-
-* todo list connect to Calendarly or google [https://bashooka.com/inspiration/to-do-list-app-ui-designs/](https://bashooka.com/inspiration/to-do-list-app-ui-designs/)
-* [https://medium.muz.li/todo-list-inspiration-a1d736c2718a](https://medium.muz.li/todo-list-inspiration-a1d736c2718a)
-
-
-
+* todo list connect to Calendarly or google [https://bashooka.com/inspiration/to-do-list-app-ui-designs/](https://bashooka.com/inspiration/to-do-list-app-ui-designs/) [https://medium.muz.li/todo-list-inspiration-a1d736c2718a](https://medium.muz.li/todo-list-inspiration-a1d736c2718a)
 * Blog \(Personal, Travel or Special Interest\) [https://www.sitebuilderreport.com/inspiration/blog-examples](https://www.sitebuilderreport.com/inspiration/blog-examples)
 
