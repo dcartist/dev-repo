@@ -1,8 +1,13 @@
 # Resources
 
+## WRITING SOFTWARE:
+
+Grammarly \(chrome extension\) : [https://www.grammarly.com](https://www.grammarly.com/)
+
 ## README EDITOR:
 
-Typora \(Win/Mac/Linux\): [https://typora.io](https://typora.io/)
+Typora \(Win/Mac/Linux\): [https://typora.io](https://typora.io/)  
+StackEdit \(Online\): [https://stackedit.io](https://stackedit.io/)
 
 ## API List
 
