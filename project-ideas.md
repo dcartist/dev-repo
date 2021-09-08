@@ -43,6 +43,9 @@ Datasets:
 
 Many of the previously mentioned apps can be used as a full-stack
 
+* Instagram \(Auth possible, Cloudinary for image uploads\)
 * todo list connect to Calendarly or google [https://bashooka.com/inspiration/to-do-list-app-ui-designs/](https://bashooka.com/inspiration/to-do-list-app-ui-designs/) [https://medium.muz.li/todo-list-inspiration-a1d736c2718a](https://medium.muz.li/todo-list-inspiration-a1d736c2718a)
 * Blog \(Personal, Travel or Special Interest\) [https://www.sitebuilderreport.com/inspiration/blog-examples](https://www.sitebuilderreport.com/inspiration/blog-examples)
+
+
 
