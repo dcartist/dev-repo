@@ -2,7 +2,11 @@
 
 ## Developer Depot
 
-Steps to think when debugging
+{% page-ref page="project-ideas.md" %}
+
+
+
+### Steps to think when debugging
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
 2. **Read your error messages**, and say out loud what the error is telling you.
