@@ -2,7 +2,7 @@
 
 ## Developer Depot
 
-{% page-ref page="project-ideas.md" %}
+[project-ideas.md]: project-ideas.md	"Project ideas"
 
 
 
