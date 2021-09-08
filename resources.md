@@ -3,7 +3,8 @@
 ## API List
 
 Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
-API List: [https://apilist.fun](https://apilist.fun/)
+API List: [https://apilist.fun](https://apilist.fun/)  
+No Auth needed listing: [https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
 ### Easy:
 
@@ -16,8 +17,8 @@ API List: [https://apilist.fun](https://apilist.fun/)
 
 ### Medium:
 
-* Marvel Api - [https://developer.marvel.com/](https://developer.marvel.com/) 
-* Open Weather Api - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key
+* Marvel API - [https://developer.marvel.com](https://developer.marvel.com/) 
+* Open Weather API - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key
 
 ### Hard:
 
@@ -35,7 +36,8 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 
 ## Software
 
-[https://runjs.app/](https://runjs.app/) RunJs
+RunJs - Able to run your code. A great IDE especially testing a small amount of code.  
+[https://runjs.app/](https://runjs.app/) 
 
 ### Inspirational 
 
