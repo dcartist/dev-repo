@@ -35,10 +35,6 @@ Inspiration:
 
 
 
-Datasets:
-
-
-
 ## Full-stack
 
 Many of the previously mentioned apps can be used as a full-stack
