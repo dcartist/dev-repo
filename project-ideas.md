@@ -11,13 +11,23 @@ Starting apps can be very frustrating when starting because there's the big ques
 * Weather Api - Weather API
 * Game to show logic
 * todo list connect to Calendarly or google
-* Drink app
+* Drink app using Drink API \([thedrinkblog.com](https://thedrinkblog.com/)\) 
 * Meal App
 * Wiki Type page
 * Blog \(Personal, Travel or Special Interest\)
 * Dashboard
 
+![](.gitbook/assets/forkand.jpeg)
+
+![](.gitbook/assets/table.jpeg)
+
 ## BackEnd
+
+Swagger or use Express to create a front end to show what the API does.  
+[https://swagger.io/tools/swagger-ui/](https://swagger.io/tools/swagger-ui/)
+
+* RESTful Full CRUD API
+* RESTful Full CRUD API WITH SECURITY
 
 ## Fullstack
 
