@@ -2,6 +2,8 @@
 
 ## Developer Depot
 
+[GitBook](https://dcartist.gitbook.io/life-with-code/) View 
+
 ### Project Ideas
 
 [Project ideas](project-ideas.md)
@@ -22,18 +24,16 @@
     * **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
     * **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
 
-
 ### Ask yourself some of these questions:
 
-- What do I need to do?
-- What data do I need to pull?
-- What and where am I storing my data?
-- How much do I need to pull?
-- Am I actually pulling the right t dhing?
-- What am I looking at?
-- What am I doing?
-- What am I supposed to do?
-
+* What do I need to do?
+* What data do I need to pull?
+* What and where am I storing my data?
+* How much do I need to pull?
+* Am I actually pulling the right thing?
+* What am I looking at?
+* What am I doing?
+* What am I supposed to do?
 
 ## Mindset tools:
 
@@ -51,7 +51,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
 10. You are not your code; you just built some small wonky code.
 11. You are not a machine, and no one expects you to be one.
 12. Always study, keep learning and keep going. Never settle. There's a reason why things constantly update!
-13. I don't know vs. I haven't grasped it yet. It's a part of the growth mindset. Your mind is in constant change, especially when learning. Just like plants, we need certain things for growth, and when it comes to learning, what you say can determine how you grow.
+13. **I don't know** vs. **I haven't grasped it yet**. It's a part of the growth mindset. Your mind is in constant change, especially when learning. Just like plants, we need certain things for growth, and when it comes to learning, what you say can determine how you grow.
     * Growth Mindset Cliffnotes youtube version: [https://www.youtube.com/watch?v=M1CHPnZfFmU](https://www.youtube.com/watch?v=M1CHPnZfFmU)
     * Understanding mindset: [https://www.understood.org/articles/en/growth-mindset](https://www.understood.org/articles/en/growth-mindset)
     * Growth Mindset youtube: [https://www.youtube.com/watch?v=hiiEeMN7vbQ](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
@@ -73,7 +73,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
 ### Medium:
 
 * Marvel Api - [https://developer.marvel.com/](https://developer.marvel.com/) 
-* Open Weather Api - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple hours to a day for key
+* Open Weather Api - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key
 
 ### Hard:
 

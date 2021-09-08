@@ -10,11 +10,12 @@ Starting apps can be very frustrating when starting because there's the big ques
 
 * Weather Api - Weather API
 * Game to show logic
-* todo list connect to calendarly or google
+* todo list connect to Calendarly or google
 * Drink app
 * Meal App
 * Wiki Type page
-* Blog \(Personal, Travel or special Interest\)
+* Blog \(Personal, Travel or Special Interest\)
+* Dashboard
 
 ## BackEnd
 
