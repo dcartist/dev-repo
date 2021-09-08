@@ -78,23 +78,5 @@ When dealing with debugging, there are some mindset tools to help visualize your
 
 ![Maya Angelos](.gitbook/assets/maya.jpg)
 
-## API List
-
-### Easy:
-
-* Pokemon API - [https://pokeapi.co/](https://pokeapi.co/)
-* Meal DB  - [https://www.themealdb.com/](https://www.themealdb.com/)
-* Cocktail DB - [https://www.thecocktaildb.com/](https://www.thecocktaildb.com/)
-* Countries - [https://restcountries.eu/](https://restcountries.eu/)
-* OMDB - [https://www.omdbapi.com/](https://www.omdbapi.com/)   \(requires token\)
-* iex cloud - [https://iexcloud.io/console/](https://iexcloud.io/console/)   \(requires token\)
-
-### Medium:
-
-* Marvel Api - [https://developer.marvel.com/](https://developer.marvel.com/) 
-* Open Weather Api - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key
-
-### Hard:
-
-Spotify [https://developer.spotify.com/documentation/web-api/](https://developer.spotify.com/documentation/web-api/)
+## 
 
