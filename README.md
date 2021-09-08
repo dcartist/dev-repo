@@ -21,8 +21,23 @@
 9. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
 10. Take notes. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
 11. What you think vs. What it is. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
+
     * **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
-    * **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
+
+    **Example:**
+
+```javascript
+//Make a function that prints out the argument to the console log
+let apple = "Something completely else"
+
+function thePrinter(insertData){
+console.log(apple) // this is the wrong variable 
+}
+
+thePrinter("The should print out")
+```
+
+* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
 
 ### Ask yourself some of these questions:
 
