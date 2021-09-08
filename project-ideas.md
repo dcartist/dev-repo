@@ -10,11 +10,9 @@ Starting apps can be very frustrating when starting because there's the big ques
 
 * Weather Api - Weather API  \(inspiration: [https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration](https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration/) \) 
 * Game to show logic
-* todo list connect to Calendarly or google
 * Drink app using Drink API \([thedrinkblog.com](https://thedrinkblog.com/)\) 
 * Meal App  \(inspirational food sites: [https://www.sitebuilderreport.com/inspiration/food-websites](https://www.sitebuilderreport.com/inspiration/food-websites) \) 
 * Wiki Type page
-* Blog \(Personal, Travel or Special Interest\) [https://www.sitebuilderreport.com/inspiration/blog-examples](https://www.sitebuilderreport.com/inspiration/blog-examples) 
 * Dashboard
 
 ![](.gitbook/assets/forkand.jpeg)
@@ -29,5 +27,18 @@ Swagger or use Express to create a front end to show what the API does.
 * RESTful Full CRUD API
 * RESTful Full CRUD API WITH SECURITY
 
+Datasets:
+
+
+
 ## Fullstack
+
+
+
+* todo list connect to Calendarly or google [https://bashooka.com/inspiration/to-do-list-app-ui-designs/](https://bashooka.com/inspiration/to-do-list-app-ui-designs/)
+* [https://medium.muz.li/todo-list-inspiration-a1d736c2718a](https://medium.muz.li/todo-list-inspiration-a1d736c2718a)
+
+
+
+* Blog \(Personal, Travel or Special Interest\) [https://www.sitebuilderreport.com/inspiration/blog-examples](https://www.sitebuilderreport.com/inspiration/blog-examples)
 
