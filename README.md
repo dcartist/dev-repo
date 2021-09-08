@@ -8,6 +8,10 @@
 
 [Project ideas](project-ideas.md)
 
+Resources
+
+[Resources](resources.md)
+
 ### Steps to think when debugging
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
