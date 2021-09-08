@@ -14,7 +14,7 @@ Starting apps can be very frustrating when starting because there's the big ques
 * Drink app using Drink API \([thedrinkblog.com](https://thedrinkblog.com/)\) 
 * Meal App  \(inspirational food sites: [https://www.sitebuilderreport.com/inspiration/food-websites](https://www.sitebuilderreport.com/inspiration/food-websites) \) 
 * Wiki Type page
-* Blog \(Personal, Travel or Special Interest\)
+* Blog \(Personal, Travel or Special Interest\) [https://www.sitebuilderreport.com/inspiration/blog-examples](https://www.sitebuilderreport.com/inspiration/blog-examples) 
 * Dashboard
 
 ![](.gitbook/assets/forkand.jpeg)
