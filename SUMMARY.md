@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [Resources](resources.md)
+* [Planning](planning.md)
 * [Project Ideas](project-ideas.md)
+* [Resources](resources.md)
 
