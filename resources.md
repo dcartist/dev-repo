@@ -74,5 +74,7 @@ RunJs - Able to run your code. A great IDE especially testing a small amount of 
 
 ### Inspirational 
 
-[https://www.webdesign-inspiration.com/](https://www.webdesign-inspiration.com/)
+[https://www.webdesign-inspiration.com](https://www.webdesign-inspiration.com/)
+
+[https://www.awwwards.com](https://www.awwwards.com/)
 
