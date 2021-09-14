@@ -9,6 +9,20 @@ Grammarly \(chrome extension\) : [https://www.grammarly.com](https://www.grammar
 Typora \(Win/Mac/Linux\): [https://typora.io](https://typora.io/)  
 StackEdit \(Online\): [https://stackedit.io](https://stackedit.io/)
 
+## VSCODE EXTENSIONS:
+
+Color Brackets:   
+[https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+Git Graph:  
+[https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+Project Manager:  
+[https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+
+Draw.io:  
+[https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
 ## API List
 
 Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
@@ -36,6 +50,8 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 ## Planning Apps
 
 [**Excalidraw**](https://excalidraw.com/) - \([https://excalidraw.com](https://excalidraw.com/)\) Drawing app to help with diagrams
+
+\*\*\*\*[**Diagrams**](https://app.diagrams.net) ****- \([https://app.diagrams.net](https://app.diagrams.net/)\) entity relationship diagram software
 
 **Github Projects** \(Check your repo and go to the project tab\)
 
