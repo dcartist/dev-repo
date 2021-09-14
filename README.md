@@ -19,7 +19,7 @@
 3. Console log to view what is going on with your code.
 4. Think of the **simplest** ways of handling challenges.
 5. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors.
-6. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building. Check out a sample diagram [here](planning.md)
+6. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
 7. **Breathe!**
 8. Rubber Duckie. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 9. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)

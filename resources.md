@@ -4,6 +4,14 @@
 
 Grammarly \(chrome extension\) : [https://www.grammarly.com](https://www.grammarly.com/)
 
+## NOTE TAKING:
+
+Evernote \(universal\): [https://evernote.com/](https://evernote.com/)  
+Snippets Lab \(mac\): [https://www.renfei.org/snippets-lab](https://www.renfei.org/snippets-lab/)  
+Notion \(online\): [https://www.notion.so/product](https://www.notion.so/product)  
+Quiver \(mac\): [https://www.notion.so/product](https://www.notion.so/product)  
+CherryTree \(Win/Mac/Linux\): [https://www.giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/)
+
 ## README EDITOR:
 
 Typora \(Win/Mac/Linux\): [https://typora.io](https://typora.io/)  

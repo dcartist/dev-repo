@@ -9,12 +9,12 @@ Starting apps can be very frustrating when starting because there's the big ques
 ## FrontEnd
 
 * Weather API - Weather API  \(inspiration: [https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration](https://webdesignledger.com/30-cool-weather-mobile-app-designs-inspiration/) \) 
-* Game to show logic  
-  * **Flash Cards**
+* Games 
+  * **FlashCards**
   * **War**
   * **Frogger**
   * **Connect 4**
-  * **Memory**
+  * **Memory** - \([https://mint-match.web.app](https://mint-match.web.app/)\)
   * **Pacman**
   * **Trivia \(Self-scoring\)**
   * **Hangman** example \( [https://torykling.github.io/Hangman](https://torykling.github.io/Hangman/) \)
