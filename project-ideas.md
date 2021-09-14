@@ -12,7 +12,6 @@ Starting apps can be very frustrating when starting because there's the big ques
 * Games 
   * **FlashCards**
   * **War**
-  * **Rock Paper Scissors**
   * **Frogger**
   * **Connect 4**
   * **Memory** - \([https://mint-match.web.app](https://mint-match.web.app/)\)
