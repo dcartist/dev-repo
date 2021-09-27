@@ -2,7 +2,7 @@
 
 ## Developer Depot
 
-[GitBook](https://dcartist.gitbook.io/life-with-code/) View : The better visual version of this repo
+[**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: \([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)\) The better visual version of this repo
 
 ### Project Ideas
 
@@ -20,15 +20,16 @@
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
 2. **Read your error messages**, and say out loud what the error is telling you.
-3. Console log to view what is going on with your code.
-4. Think of the **simplest** ways of handling challenges.
-5. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors.
-6. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
-7. **Breathe!**
-8. Rubber Duckie. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-9. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
-10. Take notes. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
-11. What you think vs. What it is. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
+3. **READ DOCUMENTATION** carefully. 
+4. Console log to view what is going on with your code.
+5. Think of the **simplest** ways of handling challenges.
+6. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors. The same goes for Case Sensitivity. **`Apple`** `is not the same as` **`apple`** **`Apple`** `is not the same as` **`Aple`**
+7. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
+8. **Breathe!**
+9. **Rubber Duckie**. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+10. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
+11. **Take notes**. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
+12. What you think vs. What it is. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
 
     * **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
 
