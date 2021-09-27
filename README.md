@@ -67,7 +67,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
 2. In a couple of months, no one knows everything about coding; don't expect yourself to know everything. 
 3. Senior Devs are developers who experienced more error messages than you. So be prepared for a life filled with error messages. Your code will never always be perfect but can be worked towards something incredible.
 4. There will be tears. There will be moments where you want to cry, so let those tears flow.
-5. Take a break. If things are stressful, take a break; when you haven't eaten anything, take a break. 
+5. **Take a break**. If things are stressful, take a break; when you haven't eaten anything, take a break. 
 6. Allow yourself to be a mad scientist. When the questions come of wondering what will happen, don't stop on, just wonder. Test out the theory and document the outcome.
 7. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
 8. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
