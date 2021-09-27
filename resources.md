@@ -42,7 +42,7 @@ Mockup API - [https://www.mockaroo.com](https://www.mockaroo.com/)
 Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
 API List: [https://apilist.fun](https://apilist.fun/)  
 No Auth needed listing: [https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)  
-Random Generator API - [https://random-data-api.com](https://random-data-api.com/)
+Random Data API - [https://random-data-api.com](https://random-data-api.com/)
 
 ### Easy:
 
