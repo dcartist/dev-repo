@@ -4,17 +4,22 @@
 
 [**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: \([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)\) The better visual version of this repo
 
-### Links:
-
-[Project ideas \[click here\]](project-ideas.md)
-
-[Resources \[click here\]](resources.md) 
-
 #### Disclaimer:
 
 > For those going through the skills gym and reading this documentation, congrats on making it this far and **thank you for reading**. What I have to say is beneficial to what you are about to go through. To give you a heads up about your debugging challenge, you will have a moment where you wonder why you are given the questions and what you should do with them on earth. Well, here is one of the best ways to work through it, copy the code and run it, then fix it. Sometimes "fixing" means you actually have to build functions to get it to make it work. The only one you should **NOT** edit the original code is the last one. Work through it to find how to get to what needs to be printed out.
 
-### Steps to think when debugging
+### Links:
+
+[Steps to think when debugging \[click here\]](./#steps-to-debugging)  
+[Debugging mindset tools \[click here\]](./#mindset-tools)[  
+](./#steps-to-debugging)[Planning \[click here\]](planning.md)  
+[Project ideas \[click here\]](project-ideas.md)  
+[Resources \[click here\]](resources.md)   
+[About \[click here\]](about.md)
+
+## Debugging
+
+### Steps to think when debugging <a id="steps-to-debugging"></a>
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
 2. **Read your error messages**, and say out loud what the error is telling you.
