@@ -4,13 +4,11 @@
 
 [**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: \([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)\) The better visual version of this repo
 
-### Project Ideas
+### Links:
 
-[Project ideas](project-ideas.md)
+[Project ideas \[click here\]](project-ideas.md)
 
-### Resources
-
-[Resources](resources.md)
+[Resources \[click here\]](resources.md) 
 
 #### Disclaimer:
 
