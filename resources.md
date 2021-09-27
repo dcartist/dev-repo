@@ -19,7 +19,7 @@ StackEdit \(Online\): [https://stackedit.io](https://stackedit.io/)
 
 ## VSCODE EXTENSIONS:
 
-Color Brackets:   
+Color Brackets:  
 [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 Git Graph:  
@@ -31,7 +31,13 @@ Project Manager:
 Draw.io:  
 [https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
-## API List
+## API Resources
+
+JSON Placeholder - [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)  
+REQ \| RES - [https://reqres.in](https://reqres.in/)  
+Mockup API - [https://www.mockaroo.com](https://www.mockaroo.com/)
+
+### API List
 
 Public Apis: [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
 API List: [https://apilist.fun](https://apilist.fun/)  
@@ -43,13 +49,18 @@ No Auth needed listing: [https://mixedanalytics.com/blog/list-actually-free-open
 * Meal DB  - [https://www.themealdb.com/](https://www.themealdb.com/)
 * Cocktail DB - [https://www.thecocktaildb.com/](https://www.thecocktaildb.com/)
 * Countries - [https://restcountries.eu/](https://restcountries.eu/)
+* Fake Store API - [https://fakestoreapi.com/](https://fakestoreapi.com/)
 * OMDB - [https://www.omdbapi.com/](https://www.omdbapi.com/)   \(requires token\)
 * iex cloud - [https://iexcloud.io/console/](https://iexcloud.io/console/)   \(requires token\)
+* Open Library - [https://openlibrary.org/developers/api](https://openlibrary.org/developers/api)
+* Makeup Heroku - [http://makeup-api.herokuapp.com/](http://makeup-api.herokuapp.com/) \(Warning it is on Heroku it can be asleep\)
+* RestAPIExample - [https://dummy.restapiexample.com/](https://dummy.restapiexample.com/) \(Can get too many requests error\)
+* Star Wars API - [https://swapi.dev/](https://swapi.dev/) -  Watch out for the **last slash in the url** & watch for **https** vs ~~**http**~~
 
 ### Medium:
 
 * Marvel API - [https://developer.marvel.com](https://developer.marvel.com/) 
-* Open Weather API - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key
+* Open Weather API - [https://openweathermap.org/api](https://openweathermap.org/api) - Takes from a couple of hours to a day for key.
 
 ### Hard:
 
@@ -59,7 +70,7 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 
 [**Excalidraw**](https://excalidraw.com/) - \([https://excalidraw.com](https://excalidraw.com/)\) Drawing app to help with diagrams
 
-\*\*\*\*[**Diagrams**](https://app.diagrams.net) ****- \([https://app.diagrams.net](https://app.diagrams.net/)\) entity relationship diagram software
+\*\*\*\*[**Diagrams**](https://app.diagrams.net) _\*\*_- \([https://app.diagrams.net](https://app.diagrams.net/)\) entity relationship diagram software
 
 **Github Projects** \(Check your repo and go to the project tab\)
 
@@ -70,9 +81,9 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 ## Software
 
 RunJs - Able to run your code. A great IDE especially testing a small amount of code.  
-[https://runjs.app/](https://runjs.app/) 
+[https://runjs.app/](https://runjs.app/)
 
-### Inspirational 
+### Inspirational
 
 [https://www.webdesign-inspiration.com](https://www.webdesign-inspiration.com/)
 

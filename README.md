@@ -2,29 +2,32 @@
 
 ## Developer Depot
 
-[GitBook](https://dcartist.gitbook.io/life-with-code/) View 
+[**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: \([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)\) The better visual version of this repo
 
-### Project Ideas
+### Links:
 
-[Project ideas](project-ideas.md)
+[Project ideas \[click here\]](project-ideas.md)
 
-### Resources
+[Resources \[click here\]](resources.md) 
 
-[Resources](resources.md)
+#### Disclaimer:
+
+> For those going through the skills gym and reading this documentation, congrats on making it this far and **thank you for reading**. What I have to say is beneficial to what you are about to go through. To give you a heads up about your debugging challenge, you will have a moment where you wonder why you are given the questions and what you should do with them on earth. Well, here is one of the best ways to work through it, copy the code and run it, then fix it. Sometimes "fixing" means you actually have to build functions to get it to make it work. The only one you should **NOT** edit the original code is the last one. Work through it to find how to get to what needs to be printed out.
 
 ### Steps to think when debugging
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
 2. **Read your error messages**, and say out loud what the error is telling you.
-3. Console log to view what is going on with your code.
-4. Think of the **simplest** ways of handling challenges.
-5. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors.
-6. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
-7. **Breathe!**
-8. Rubber Duckie. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-9. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
-10. Take notes. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
-11. What you think vs. What it is. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
+3. **READ DOCUMENTATION** carefully. 
+4. Console log to view what is going on with your code.
+5. Think of the **simplest** ways of handling challenges.
+6. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors. The same goes for Case Sensitivity. **`Apple`** `is not the same as` **`apple`** **`Apple`** `is not the same as` **`Aple`**
+7. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
+8. **Breathe!**
+9. **Rubber Duckie**. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+10. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
+11. **Take notes**. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
+12. **What you think** vs. **What it is**. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
 
     * **Name of variables**: You could have a variable declared in one spot thinking you have used it for a certain but, but end up inserting a  different variable instead of the one you needed, which causes chaos down the line.
 
@@ -41,7 +44,7 @@ console.log(apple) // this is the wrong variable
 thePrinter("The should print out")
 ```
 
-* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an object, array, string, or integer? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
+* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an **object, array, string, or integer**? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
 
 ### Ask yourself some of these questions:
 
@@ -62,7 +65,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
 2. In a couple of months, no one knows everything about coding; don't expect yourself to know everything. 
 3. Senior Devs are developers who experienced more error messages than you. So be prepared for a life filled with error messages. Your code will never always be perfect but can be worked towards something incredible.
 4. There will be tears. There will be moments where you want to cry, so let those tears flow.
-5. Take a break. If things are stressful, take a break; when you haven't eaten anything, take a break. 
+5. **Take a break**. If things are stressful, take a break; when you haven't eaten anything, take a break. 
 6. Allow yourself to be a mad scientist. When the questions come of wondering what will happen, don't stop on, just wonder. Test out the theory and document the outcome.
 7. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
 8. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
