@@ -12,6 +12,7 @@
 
 [Steps to think when debugging \[click here\]](#steps-to-debugging)  
 [Debugging mindset tools \[click here\]](#mindset-tools)
+
 [Planning \[click here\]](planning.md)  
 [Project ideas \[click here\]](project-ideas.md)  
 [Resources \[click here\]](resources.md)   
