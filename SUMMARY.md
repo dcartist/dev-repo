@@ -4,4 +4,5 @@
 * [Planning](planning.md)
 * [Project Ideas](project-ideas.md)
 * [Resources](resources.md)
+* [About](about.md)
 

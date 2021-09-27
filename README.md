@@ -69,7 +69,7 @@ When dealing with debugging, there are some mindset tools to help visualize your
 6. Allow yourself to be a mad scientist. When the questions come of wondering what will happen, don't stop on, just wonder. Test out the theory and document the outcome.
 7. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
 8. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
-9. Maya Angelou Quote: If you don't like something, change it. If you can't change it, change your attitude. **Don't complain**.
+9. **Maya Angelou Quote**: If you don't like something, change it. If you can't change it, change your attitude. **Don't complain**.
 10. You are not your code; you just built some small wonky code.
 11. You are not a machine, and no one expects you to be one.
 12. Always study, keep learning and keep going. Never settle. There's a reason why things constantly update!
@@ -80,4 +80,8 @@ When dealing with debugging, there are some mindset tools to help visualize your
 14. Sleeping and allowing your body to rest are important tools in debugging.
 
 ![Maya Angelos](.gitbook/assets/maya.jpg)
+
+### “You don’t learn to walk by following rules. You learn by doing, and by falling over”. ~ Richard Branson
+
+Trying to become more comfortable with falling over.  
 

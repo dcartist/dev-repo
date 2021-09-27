@@ -10,5 +10,3 @@ Diagram of a sample plan \(it doesn't have to be exactly like this\):
 
 ![](.gitbook/assets/diagram%20%281%29.jpg)
 
-
-
