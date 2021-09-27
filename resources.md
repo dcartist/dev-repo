@@ -78,6 +78,23 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 
 ![](.gitbook/assets/jirascreenshot.png)
 
+## Charts
+
+Chart JS
+
+* [https://www.chartjs.org](https://www.chartjs.org/)
+* [https://www.w3schools.com/ai/ai\_chartjs.asp](https://www.w3schools.com/ai/ai_chartjs.asp)
+
+Google Charts
+
+* [https://developers.google.com/chart](https://developers.google.com/chart)
+* [https://www.w3schools.com/ai/ai\_google\_chart.asp](https://www.w3schools.com/ai/ai_google_chart.asp)
+
+D3  - [https://d3js.org](https://d3js.org/)  
+Vega - [https://vega.github.io/vega/](https://vega.github.io/vega/)
+
+
+
 ## Software
 
 RunJs - Able to run your code. A great IDE especially testing a small amount of code.  
