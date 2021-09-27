@@ -10,13 +10,14 @@
 
 ### Links:
 
-[Steps to think when debugging \[click here\]](./#steps-to-debugging)  
-[Debugging mindset tools \[click here\]](./#mindset-tools)
+[Steps to think when debugging \[click here\]](#steps-to-debugging)  
+[Debugging mindset tools \[click here\]](#mindset-tools)
 
 [Planning \[click here\]](planning.md)  
 [Project ideas \[click here\]](project-ideas.md)  
-[Resources \[click here\]](resources.md)  
+[Resources \[click here\]](resources.md)   
 [About \[click here\]](about.md)
+
 
 ## Debugging
 
@@ -73,22 +74,21 @@ When dealing with debugging, there are some mindset tools to help visualize your
 4. There will be tears. There will be moments where you want to cry, so let those tears flow.
 5. **Take a break**. If things are stressful, take a break; when you haven't eaten anything, take a break. 
 6. Allow yourself to be a mad scientist. When the questions come of wondering what will happen, don't stop on, just wonder. Test out the theory and document the outcome.
-7. Along with the mad scientist, keep building projects \(outside of Udemy/Youtube courses\) to help you understand coding.
-8. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
-9. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
-10. **Maya Angelou Quote**: If you don't like something, change it. If you can't change it, change your attitude. **Don't complain**.
-11. You are not your code; you just built some small wonky code.
-12. You are not a machine, and no one expects you to be one.
-13. Always study, keep learning and keep going. Never settle. There's a reason why things constantly update!
-14. **I don't know** vs. **I haven't grasped it yet**. It's a part of the growth mindset. Your mind is in constant change, especially when learning. Just like plants, we need certain things for growth, and when it comes to learning, what you say can determine how you grow.
+7. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
+8. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
+9. **Maya Angelou Quote**: If you don't like something, change it. If you can't change it, change your attitude. **Don't complain**.
+10. You are not your code; you just built some small wonky code.
+11. You are not a machine, and no one expects you to be one.
+12. Always study, keep learning and keep going. Never settle. There's a reason why things constantly update!
+13. **I don't know** vs. **I haven't grasped it yet**. It's a part of the growth mindset. Your mind is in constant change, especially when learning. Just like plants, we need certain things for growth, and when it comes to learning, what you say can determine how you grow.
     * Growth Mindset Cliffnotes youtube version: [https://www.youtube.com/watch?v=M1CHPnZfFmU](https://www.youtube.com/watch?v=M1CHPnZfFmU)
     * Understanding mindset: [https://www.understood.org/articles/en/growth-mindset](https://www.understood.org/articles/en/growth-mindset)
     * Growth Mindset youtube: [https://www.youtube.com/watch?v=hiiEeMN7vbQ](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-15. Sleeping and allowing your body to rest are important tools in debugging.
+14. Sleeping and allowing your body to rest are important tools in debugging.
 
 ![Maya Angelos](.gitbook/assets/maya.jpg)
 
 ### “You don’t learn to walk by following rules. You learn by doing, and by falling over”. ~ Richard Branson
 
-Trying to become more comfortable with falling over.
+Trying to become more comfortable with falling over.  
 
