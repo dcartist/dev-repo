@@ -17,6 +17,7 @@
 [Resources \[click here\]](resources.md)   
 [About \[click here\]](about.md)
 
+
 ## Debugging
 
 ### Steps to think when debugging <a id="steps-to-debugging"></a>
