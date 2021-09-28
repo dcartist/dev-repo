@@ -69,13 +69,18 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 
 ## Planning Apps
 
-[**Excalidraw**](https://excalidraw.com/) - \([https://excalidraw.com](https://excalidraw.com/)\) Drawing app to help with diagrams
+[**Excalidraw**](https://excalidraw.com/) - \([https://excalidraw.com](https://excalidraw.com/)\) Drawing app to help with diagrams  
+[**Diagrams**](https://app.diagrams.net) - \([https://app.diagrams.net](https://app.diagrams.net/)\) entity relationship diagram software
 
-\*\*\*\*[**Diagrams**](https://app.diagrams.net) _\*\*_- \([https://app.diagrams.net](https://app.diagrams.net/)\) entity relationship diagram software
+**Diagram.io** - \([https://dbdiagram.io/home](https://dbdiagram.io/home)\)  
+**DB Designer** - \([https://www.dbdesigner.net](https://www.dbdesigner.net/)\)  
+**Diagrams.net** - \([https://app.diagrams.net](https://app.diagrams.net/)\)  
+**LucidChart** - \([https://www.lucidchart.com/pages/examples/database-design-tool](https://www.lucidchart.com/pages/examples/database-design-tool)\)  
+**Drawsql** - \([https://drawsql.app](https://drawsql.app/)\)
 
 **Github Projects** \(Check your repo and go to the project tab\)
 
-[**Jira**](https://www.atlassian.com/software/jira) - \([https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)\) Project management. A wonderful kaban board and project management tools that can be attached to GitHub and bitbucket.
+[**Jira**](https://www.atlassian.com/software/jira) - \([https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)\) Project management. A wonderful kanban board and project management tools that can be attached to GitHub and bitbucket.
 
 ![](.gitbook/assets/jirascreenshot.png)
 
