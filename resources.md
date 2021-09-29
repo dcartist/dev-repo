@@ -78,7 +78,7 @@ Spotify [https://developer.spotify.com/documentation/web-api/](https://developer
 **LucidChart** - \([https://www.lucidchart.com/pages/examples/database-design-tool](https://www.lucidchart.com/pages/examples/database-design-tool)\)  
 **Drawsql** - \([https://drawsql.app](https://drawsql.app/)\)
 
-**Github Projects** \(Check your repo and go to the project tab\)
+**Github Projects** \(Check your repo and go to the project tab\) \([https://docs.github.com/en/issues/organizing-your-work-with-project-boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards)\)
 
 [**Jira**](https://www.atlassian.com/software/jira) - \([https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)\) Project management. A wonderful kanban board and project management tools that can be attached to GitHub and bitbucket.
 
