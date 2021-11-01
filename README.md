@@ -2,7 +2,7 @@
 
 ## Developer Depot
 
-[**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: \([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)\) The better visual version of this repo
+[**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: ([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)) The better visual version of this repo
 
 #### Disclaimer:
 
@@ -10,28 +10,30 @@
 
 ### Links:
 
-[Steps to think when debugging \[click here\]](./#steps-to-debugging)  
+[Steps to think when debugging \[click here\]](./#steps-to-debugging)\
 [Debugging mindset tools \[click here\]](./#mindset-tools)
 
-[Planning \[click here\]](planning.md)  
-[Project ideas \[click here\]](project-ideas.md)  
-[Resources \[click here\]](resources.md)  
+[Planning \[click here\]](planning.md)\
+[Project ideas \[click here\]](project-ideas.md)\
+[Resources \[click here\]](resources.md)\
 [About \[click here\]](about.md)
 
 ## Debugging
 
-### Steps to think when debugging <a id="steps-to-debugging"></a>
+### Steps to think when debugging <a href="steps-to-debugging" id="steps-to-debugging"></a>
 
 1. Acknowledging, understanding your mistakes, and that no one is perfect.
 2. **Read your error messages**, and say out loud what the error is telling you.
-3. **READ DOCUMENTATION** carefully. 
-4. Console log to view what is going on with your code.
+3. **READ DOCUMENTATION** carefully.&#x20;
+4. Console log (or Print) to view what is going on with your code.
 5. Think of the **simplest** ways of handling challenges.
-6. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors. The same goes for Case Sensitivity.  **`Apple`** `is not the same as` **`apple`**  **`Apple`** `is not the same as` **`Aple`**
+6. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors. The same goes for Case Sensitivity. \
+   **`Apple`** `is not the same as` **`apple`** \
+   **`Apple`** `is not the same as` **`Aple`**
 7. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
 8. **Breathe!**
-9. **Rubber Duckie**. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-10. Point and say: The _shisa kanko_ \(指差喚呼\) method is where you point and say what you are about to accomplish. Reading your code aloud \(in detail, line by line\) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing_and_calling)
+9. **Rubber Duckie**. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber\_duck\_debugging)
+10. Point and say: The _shisa kanko_ (指差喚呼) method is where you point and say what you are about to accomplish. Reading your code aloud (in detail, line by line) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing\_and\_calling)
 11. **Take notes**. Creating a snippet library of code you know that works will help when it comes to building. Also, going back through your notes and finding more ways to update the code will help with your development.
 12. **What you think** vs. **What it is**. Going through code, there are moments where you think something happens a certain way but happens in a different way altogether. For example:
 
@@ -50,7 +52,7 @@ console.log(apple) // this is the wrong variable
 thePrinter("The should print out")
 ```
 
-* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Asking yourself, is it an **object, array, string, or integer**? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages. 
+* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Ask yourself, is it an **object, array, string, or integer**? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages.&#x20;
 
 ### Ask yourself some of these questions:
 
@@ -67,13 +69,13 @@ thePrinter("The should print out")
 
 When dealing with debugging, there are some mindset tools to help visualize your problems.
 
-1. Remember, your errors are not permanent failures or make you a terrible programmer but are learning processes. 
-2. In a couple of months, no one knows everything about coding; don't expect yourself to know everything. 
+1. Remember, your errors are not permanent failures or make you a terrible programmer but are learning processes.&#x20;
+2. In a couple of months, no one knows everything about coding; don't expect yourself to know everything.&#x20;
 3. Senior Devs are developers who experienced more error messages than you. So be prepared for a life filled with error messages. Your code will never always be perfect but can be worked towards something incredible.
 4. There will be tears. There will be moments where you want to cry, so let those tears flow.
-5. **Take a break**. If things are stressful, take a break; when you haven't eaten anything, take a break. 
+5. **Take a break**. If things are stressful, take a break; when you haven't eaten anything, take a break.&#x20;
 6. Allow yourself to be a mad scientist. When the questions come of wondering what will happen, don't stop on, just wonder. Test out the theory and document the outcome.
-7. Along with the mad scientist, keep building projects \(outside of Udemy/Youtube courses\) to help you understand coding.
+7. Along with the mad scientist, keep building projects (outside of Udemy/Youtube courses) to help you understand coding.
 8. Telling yourself that you are terrible keeps you in a repeated mindset that you will be terrible. You will be more likely to sabotage yourself to stay in that mindset.
 9. Be proud and embrace the errors. Seeing errors, not as the end of the world but a moment in code, helps bring the stress level down some to be able to focus. Also, you now know how to work through that error when it shows up again.
 10. **Maya Angelou Quote**: If you don't like something, change it. If you can't change it, change your attitude. **Don't complain**.
@@ -88,7 +90,6 @@ When dealing with debugging, there are some mindset tools to help visualize your
 
 ![Maya Angelos](.gitbook/assets/maya.jpg)
 
-### “You don’t learn to walk by following rules. You learn by doing, and by falling over”. ~ Richard Branson
+### “You don’t learn to walk by following rules. You learn by doing, and by falling over”. \~ Richard Branson
 
 Trying to become more comfortable with falling over.
-
