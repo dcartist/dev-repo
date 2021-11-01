@@ -41,6 +41,21 @@
 
     **Example:**
 
+#### python:
+
+```
+//Make a function that prints out the argument to the console log
+apple = "Something completely else"
+
+def thePrinter(insertData){
+    print(apple) // this is the wrong variable 
+}
+
+thePrinter("The should print out")
+```
+
+#### Javascript
+
 ```javascript
 //Make a function that prints out the argument to the console log
 let apple = "Something completely else"
@@ -52,7 +67,7 @@ console.log(apple) // this is the wrong variable
 thePrinter("The should print out")
 ```
 
-* **Objects, arrays, string, or integer?** A gotcha moment is figuring out what you are using. Ask yourself, is it an **object, array, string, or integer**? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages.&#x20;
+* **Objects (dictionary), arrays (lists), string, or integer?** A gotcha moment is figuring out what you are using. Ask yourself, is it an **object (dictionary), array (lists), string, or integer**? We ask this because one huge bug-causing moment is treating what we are working with incorrectly, leading to error messages.&#x20;
 
 ### Ask yourself some of these questions:
 
