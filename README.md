@@ -30,7 +30,7 @@
 6. **SPELLING SPELLING SPELLING** is essential; some of the biggest mistakes are caused by spelling errors. The same goes for Case Sensitivity. \
    **`Apple`** `is not the same as` **`apple`** \
    **`Apple`** `is not the same as` **`Aple`**
-7. Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.
+7. **Pseudo code**!!! Plan it out! Draw it out! Break everything down into the smallest pieces possible to make things easier on yourself when building.&#x20;
 8. **Breathe!**
 9. **Rubber Duckie**. The rubber duckie is having either a person or an object that you can explain your code to see where your error might be. [https://en.wikipedia.org/wiki/Rubber\_duck\_debugging](https://en.wikipedia.org/wiki/Rubber\_duck\_debugging)
 10. Point and say: The _shisa kanko_ (指差喚呼) method is where you point and say what you are about to accomplish. Reading your code aloud (in detail, line by line) helps show yourself where you might have gone off the rails. [https://en.wikipedia.org/wiki/Pointing\_and\_calling](https://en.wikipedia.org/wiki/Pointing\_and\_calling)
