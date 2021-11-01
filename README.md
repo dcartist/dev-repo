@@ -43,13 +43,13 @@
 
 #### python:
 
-```
+```python
 //Make a function that prints out the argument to the console log
 apple = "Something completely else"
 
-def thePrinter(insertData){
+def thePrinter(insertData):
     print(apple) // this is the wrong variable 
-}
+
 
 thePrinter("The should print out")
 ```
