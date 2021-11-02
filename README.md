@@ -1,5 +1,7 @@
 # README
 
+When it comes to programming, it's more than just syntax; it's a way of thinking, a way to look at problems and solve them. I found many developers fried and highly stressed because they aren't really in the right mindset to see problems for what they are. This page is to help those who are looking for that help with tools and techniques.
+
 ## Developer Depot
 
 [**GitBook**](https://dcartist.gitbook.io/life-with-code/) **View**: ([https://dcartist.gitbook.io/life-with-code](https://dcartist.gitbook.io/life-with-code/)) The better visual version of this repo
